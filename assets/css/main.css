@@ -324,7 +324,7 @@ input, select, textarea {
 	}
 
 		a:hover {
-			color: #47D3E5;
+			color: rgb(63, 63, 189);
 		}
 
 	strong, b {
